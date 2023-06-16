@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">About BOA</string>
+
+    <string name="ParagraphBoa">
+        “What would you like the power to do?”
+        At Bank of America, we ask this question every day of all those we serve.
+        It is at the core of how we live our values, deliver our purpose and achieve responsible growth.
+        By asking this question, we continue to learn what matters most to our clients, our employees and our shareholders.
+        It helps us start a conversation centered on our commitment to use our capabilities to help those we serve be successful.
+        Because we recognize that we can only be successful when the individuals, companies, communities and employees we serve are able to reach their vision of success.
+    </string>
+
+    <string name="AboutBoa">
+    The Bank of America Corporation is an American multinational investment bank and financial services holding company headquartered at the Bank of America Corporate Center in Charlotte, North Carolina, with investment banking and auxiliary headquarters in Manhattan.
+    The bank was founded in San Francisco, California.
+    </string>
+
+</resources>
